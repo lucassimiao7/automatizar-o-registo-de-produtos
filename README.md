@@ -36,7 +36,7 @@ Ao executar o script, ele irá realizar os seguintes passos autonomamente:
 4 - Preencher as credenciais de acesso (email e palavra-passe) e entrar no sistema.
 
 5 - Iniciar um ciclo (loop) que percorre cada linha do ficheiro CSV, registando os produtos passo a passo:
-```
+
 Código
 
 Marca
